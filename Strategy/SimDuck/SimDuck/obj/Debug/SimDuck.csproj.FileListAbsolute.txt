@@ -1,0 +1,10 @@
+F:\DesignPattern\Strategy\SimDuck\SimDuck\bin\Debug\SimDuck.exe.config
+F:\DesignPattern\Strategy\SimDuck\SimDuck\obj\Debug\SimDuck.csprojResolveAssemblyReference.cache
+F:\DesignPattern\Strategy\SimDuck\SimDuck\bin\Debug\SimDuck.exe
+F:\DesignPattern\Strategy\SimDuck\SimDuck\bin\Debug\SimDuck.pdb
+F:\DesignPattern\Strategy\SimDuck\SimDuck\obj\Debug\SimDuck.exe
+F:\DesignPattern\Strategy\SimDuck\SimDuck\obj\Debug\SimDuck.pdb
+F:\DesignPattern\Strategy\SimDuck\SimDuck\bin\Debug\SimDuck.exe.manifest
+F:\DesignPattern\Strategy\SimDuck\SimDuck\bin\Debug\SimDuck.application
+F:\DesignPattern\Strategy\SimDuck\SimDuck\obj\Debug\SimDuck.exe.manifest
+F:\DesignPattern\Strategy\SimDuck\SimDuck\obj\Debug\SimDuck.application
